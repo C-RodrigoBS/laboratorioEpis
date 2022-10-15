@@ -6,12 +6,13 @@ import { getFirestore } from '@firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1F0lOfpdPXWBGEDn6A6Wjysuw1oHuk_0",
-  authDomain: "react-fb-auth-ae841.firebaseapp.com",
-  projectId: "react-fb-auth-ae841",
-  storageBucket: "react-fb-auth-ae841.appspot.com",
-  messagingSenderId: "30636261118",
-  appId: "1:30636261118:web:018f60c77df55e11b9afaf"
+  apiKey: "AIzaSyAtrH2UGkYnxs06KwMvz6uv4ix0M7At1lU",
+  authDomain: "labepis.firebaseapp.com",
+  projectId: "labepis",
+  storageBucket: "labepis.appspot.com",
+  messagingSenderId: "914729714412",
+  appId: "1:914729714412:web:a77f29ef4060481960dbc9",
+  measurementId: "G-BERCCCTPQT"
 };
 
 // Initialize Firebase
