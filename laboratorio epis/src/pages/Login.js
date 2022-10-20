@@ -120,6 +120,7 @@ export function Login() {
                   <button
                     className="btn btn-primary d-grid gap-2 col-6 mx-auto btn-lg "
                     type="submit"
+                    onClick={handleSubmit}
                   >
                     Iniciar Sesion
                   </button>
